@@ -19,3 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fajriiqbalm29&show_icons=true&locale=en" alt="fajriiqbalm29" /></p>
 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fajriiqbalm29&theme=dark)](https://git.io/streak-stats) 
+
